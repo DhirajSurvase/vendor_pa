@@ -47,3 +47,7 @@
     $(LOCAL_DIR)/dora/pa_dora.mk \
     $(LOCAL_DIR)/kagura/pa_kagura.mk \
     $(LOCAL_DIR)/keyaki/pa_keyaki.mk
+
+#lenovo
+   PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/a6000/pa_a6000.mk

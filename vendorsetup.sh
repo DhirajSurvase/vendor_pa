@@ -30,3 +30,6 @@ add_lunch_combo pa_suzu-userdebug
 add_lunch_combo pa_dora-userdebug
 add_lunch_combo pa_kagura-userdebug
 add_lunch_combo pa_keyaki-userdebug
+
+#lenovo
+add_lunch_combo pa_a6000-userdebug
